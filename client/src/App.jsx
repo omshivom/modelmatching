@@ -2,6 +2,7 @@ import { useState } from 'react';
 import TopBar from './components/TopBar';
 import EventScanner from './components/EventScanner';
 import ModelPanel from './components/ModelPanel';
+import EventDetailModal from './components/EventDetailModal';
 
 const URL_OPTIONS = [
   { label: 'United States', url: 'https://www.eventbrite.com/d/united-states/model-casting/' },
@@ -21,6 +22,7 @@ export default function App() {
   const [selectedOption, setSelectedOption] = useState(URL_OPTIONS[1]);
   const [events, setEvents] = useState([]);
   const [selectedEvent, setSelectedEvent] = useState(null);
+  const [modalEvent, setModalEvent] = useState(null);
   const [matches, setMatches] = useState([]);
   const [scanLoading, setScanLoading] = useState(false);
   const [matchLoading, setMatchLoading] = useState(false);
@@ -63,7 +65,11 @@ export default function App() {
     }
   };
 
-  const handleSelectEvent = async (event) => {
+  const handleSelectEvent = (event) => {
+    setModalEvent(event);
+  };
+
+  const handleFindModels = async (event) => {
     setSelectedEvent(event);
     setMatchLoading(true);
     setMatches([]);
@@ -101,6 +107,11 @@ export default function App() {
     <div className="min-h-screen bg-cream-50 flex flex-col">
       <TopBar shortlistCount={shortlist.size} />
       <div className="flex flex-1 overflow-hidden" style={{ height: 'calc(100vh - 64px)' }}>
+        <EventDetailModal
+          event={modalEvent}
+          onClose={() => setModalEvent(null)}
+          onFindModels={handleFindModels}
+        />
         <EventScanner
           urlOptions={URL_OPTIONS}
           selectedOption={selectedOption}
