@@ -1,0 +1,102 @@
+[
+  {
+    "model_id": 1,
+    "model_name": "Betsy Gaghan",
+    "booking_type": "Runway Show",
+    "client": "Chloé",
+    "start_date": "2026-06-15",
+    "end_date": "2026-06-18",
+    "location": "Paris",
+    "status": "confirmed"
+  },
+  {
+    "model_id": 3,
+    "model_name": "Sara Caballero",
+    "booking_type": "Editorial Shoot",
+    "client": "Vogue France",
+    "start_date": "2026-05-10",
+    "end_date": "2026-05-12",
+    "location": "Paris",
+    "status": "confirmed"
+  },
+  {
+    "model_id": 5,
+    "model_name": "Luiza Perote",
+    "booking_type": "Campaign Shoot",
+    "client": "Jacquemus",
+    "start_date": "2026-05-20",
+    "end_date": "2026-05-25",
+    "location": "Marseille",
+    "status": "confirmed"
+  },
+  {
+    "model_id": 7,
+    "model_name": "Vittoria Ceretti",
+    "booking_type": "Brand Campaign",
+    "client": "Chanel",
+    "start_date": "2026-05-01",
+    "end_date": "2026-05-07",
+    "location": "Milan",
+    "status": "confirmed"
+  },
+  {
+    "model_id": 7,
+    "model_name": "Vittoria Ceretti",
+    "booking_type": "Fashion Show",
+    "client": "Armani Privé",
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-08",
+    "location": "Paris",
+    "status": "tentative"
+  },
+  {
+    "model_id": 9,
+    "model_name": "Adut Akech",
+    "booking_type": "Brand Ambassador Event",
+    "client": "Estée Lauder",
+    "start_date": "2026-06-01",
+    "end_date": "2026-06-03",
+    "location": "New York",
+    "status": "confirmed"
+  },
+  {
+    "model_id": 12,
+    "model_name": "Sora Choi",
+    "booking_type": "Editorial Shoot",
+    "client": "W Magazine",
+    "start_date": "2026-05-15",
+    "end_date": "2026-05-17",
+    "location": "New York",
+    "status": "confirmed"
+  },
+  {
+    "model_id": 15,
+    "model_name": "Amelia Gray",
+    "booking_type": "Campaign Shoot",
+    "client": "Calvin Klein",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-14",
+    "location": "Los Angeles",
+    "status": "confirmed"
+  },
+  {
+    "model_id": 19,
+    "model_name": "Liu Wen",
+    "booking_type": "Brand Event",
+    "client": "H&M",
+    "start_date": "2026-05-28",
+    "end_date": "2026-05-30",
+    "location": "Shanghai",
+    "status": "confirmed"
+  },
+  {
+    "model_id": 20,
+    "model_name": "Paloma Elsesser",
+    "booking_type": "Magazine Cover Shoot",
+    "client": "Vogue US",
+    "start_date": "2026-05-05",
+    "end_date": "2026-05-08",
+    "location": "New York",
+    "status": "confirmed"
+  }
+]

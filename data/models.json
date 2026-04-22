@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "name": "Betsy Gaghan",
+    "instagram_handle": "@betsygaghan",
+    "instagram_followers": 14400,
+    "engagement_rate": 4.2,
+    "nationality": "American",
+    "base_city": "New York",
+    "agency": "Next New York",
+    "style_tags": ["runway", "editorial", "haute couture", "minimalist"],
+    "specialties": ["runway walking", "designer shows"],
+    "notable_clients": ["Chloé", "Prada", "Balenciaga"],
+    "ig_audience": {
+      "top_countries": ["US", "UK", "France"],
+      "age_range": "18-34",
+      "gender_split": {"female": 72, "male": 28}
+    },
+    "bio": "Top runway walker of 2025 with 74 shows. Known for versatile look that works across minimalist and maximalist designers."
+  },
+  {
+    "id": 2,
+    "name": "Hejia Li",
+    "instagram_handle": "@hejialiiiii",
+    "instagram_followers": 5000,
+    "engagement_rate": 6.8,
+    "nationality": "Chinese",
+    "base_city": "Shanghai",
+    "agency": "Esee Model Management",
+    "style_tags": ["runway", "editorial", "avant-garde", "luxury"],
+    "specialties": ["runway walking", "Asian luxury market"],
+    "notable_clients": ["Chanel", "Louis Vuitton", "Dior"],
+    "ig_audience": {
+      "top_countries": ["China", "Japan", "South Korea"],
+      "age_range": "20-35",
+      "gender_split": {"female": 65, "male": 35}
+    },
+    "bio": "70 runway shows in 2025. Strong presence in Asian luxury market with growing European demand."
+  },
+  {
+    "id": 3,
+    "name": "Sara Caballero",
+    "instagram_handle": "@saaracaballero",
+    "instagram_followers": 12500,
+    "engagement_rate": 5.1,
+    "nationality": "Chilean/Spanish",
+    "base_city": "Paris",
+    "agency": "Elite Paris",
+    "style_tags": ["runway", "editorial", "luxury", "european chic"],
+    "specialties": ["runway walking", "European fashion weeks"],
+    "notable_clients": ["Victoria Beckham", "Loewe", "Celine"],
+    "ig_audience": {
+      "top_countries": ["France", "Spain", "US"],
+      "age_range": "18-30",
+      "gender_split": {"female": 70, "male": 30}
+    },
+    "bio": "Elite Paris talent with 68 runways in 2025. Chilean-Spanish heritage gives her a unique cross-cultural appeal."
+  },
+  {
+    "id": 4,
+    "name": "Awar Odhiang",
+    "instagram_handle": "@awarodhiang",
+    "instagram_followers": 57300,
+    "engagement_rate": 5.5,
+    "nationality": "Canadian",
+    "base_city": "Calgary",
+    "agency": "Mode Models Calgary",
+    "style_tags": ["runway", "editorial", "high fashion", "diversity"],
+    "specialties": ["runway", "editorial campaigns"],
+    "notable_clients": ["Hermès", "Valentino", "Givenchy"],
+    "ig_audience": {
+      "top_countries": ["US", "Canada", "UK"],
+      "age_range": "18-34",
+      "gender_split": {"female": 68, "male": 32}
+    },
+    "bio": "Models.com Industry Model of the Year 2025. 67 runways walked. Known for commanding runway presence and editorial versatility."
+  },
+  {
+    "id": 5,
+    "name": "Luiza Perote",
+    "instagram_handle": "@luizaperotee",
+    "instagram_followers": 104000,
+    "engagement_rate": 3.9,
+    "nationality": "Brazilian",
+    "base_city": "São Paulo",
+    "agency": "Evol Management",
+    "style_tags": ["runway", "commercial", "swimwear", "editorial"],
+    "specialties": ["runway", "swimwear", "commercial campaigns"],
+    "notable_clients": ["Mugler", "Versace", "Jacquemus"],
+    "ig_audience": {
+      "top_countries": ["Brazil", "US", "France"],
+      "age_range": "18-30",
+      "gender_split": {"female": 60, "male": 40}
+    },
+    "bio": "63 runways in 2025. Brazilian energy and versatility make her a fit for both runway and commercial bookings."
+  },
+  {
+    "id": 6,
+    "name": "Lulu Tenney",
+    "instagram_handle": "@lulutenney",
+    "instagram_followers": 79000,
+    "engagement_rate": 4.5,
+    "nationality": "American",
+    "base_city": "New York",
+    "agency": "Lumien Creative",
+    "style_tags": ["editorial", "luxury", "high fashion", "youthful"],
+    "specialties": ["editorial", "magazine covers", "luxury campaigns"],
+    "notable_clients": ["Vogue", "Marc Jacobs", "Bottega Veneta"],
+    "ig_audience": {
+      "top_countries": ["US", "UK", "Italy"],
+      "age_range": "16-28",
+      "gender_split": {"female": 75, "male": 25}
+    },
+    "bio": "Vogue cover star (Dec 2024). NYC-based with a youthful editorial aesthetic perfect for luxury and contemporary brands."
+  },
+  {
+    "id": 7,
+    "name": "Vittoria Ceretti",
+    "instagram_handle": "@vittoria",
+    "instagram_followers": 2000000,
+    "engagement_rate": 2.1,
+    "nationality": "Italian",
+    "base_city": "Milan",
+    "agency": "Elite (via Elite Model Look)",
+    "style_tags": ["supermodel", "luxury", "haute couture", "editorial", "commercial"],
+    "specialties": ["everything — runway, editorial, commercial, campaigns"],
+    "notable_clients": ["Chanel", "Prada", "Armani", "Dolce & Gabbana", "Vogue"],
+    "ig_audience": {
+      "top_countries": ["Italy", "US", "France"],
+      "age_range": "18-35",
+      "gender_split": {"female": 65, "male": 35}
+    },
+    "bio": "400+ fashion shows, 24 Vogue covers. One of the highest-paid models of her generation. Elite Model Look discovery."
+  },
+  {
+    "id": 8,
+    "name": "Alex Consani",
+    "instagram_handle": "@alexconsani",
+    "instagram_followers": 1500000,
+    "engagement_rate": 7.2,
+    "nationality": "American",
+    "base_city": "New York",
+    "agency": "IMG Models",
+    "style_tags": ["runway", "social media", "gen-z", "inclusive", "streetwear", "luxury"],
+    "specialties": ["runway", "social media campaigns", "brand ambassador"],
+    "notable_clients": ["Alexander McQueen", "Versace", "Burberry", "Chloé"],
+    "ig_audience": {
+      "top_countries": ["US", "UK", "Brazil"],
+      "age_range": "16-28",
+      "gender_split": {"female": 70, "male": 30}
+    },
+    "bio": "Fashion Award Model of the Year 2024. Massive TikTok presence (3M+). First trans model to walk Victoria's Secret. Gen-Z icon."
+  },
+  {
+    "id": 9,
+    "name": "Adut Akech",
+    "instagram_handle": "@adutakech",
+    "instagram_followers": 2000000,
+    "engagement_rate": 2.8,
+    "nationality": "South Sudanese-Australian",
+    "base_city": "New York",
+    "agency": "The Society Management",
+    "style_tags": ["supermodel", "editorial", "luxury", "haute couture", "diversity"],
+    "specialties": ["editorial", "luxury campaigns", "brand ambassador"],
+    "notable_clients": ["Valentino", "Estée Lauder", "Chanel", "Saint Laurent"],
+    "ig_audience": {
+      "top_countries": ["US", "Australia", "UK"],
+      "age_range": "18-34",
+      "gender_split": {"female": 68, "male": 32}
+    },
+    "bio": "Estée Lauder global ambassador. Time 100 Next. 2M Instagram followers. One of the defining faces of modern fashion."
+  },
+  {
+    "id": 10,
+    "name": "Anok Yai",
+    "instagram_handle": "@anokyai",
+    "instagram_followers": 850000,
+    "engagement_rate": 3.2,
+    "nationality": "Sudanese-American",
+    "base_city": "New York",
+    "agency": "Next Model Management",
+    "style_tags": ["supermodel", "editorial", "luxury", "haute couture"],
+    "specialties": ["runway opener", "editorial", "luxury campaigns"],
+    "notable_clients": ["Prada", "Estée Lauder", "Versace", "Fendi"],
+    "ig_audience": {
+      "top_countries": ["US", "UK", "Nigeria"],
+      "age_range": "18-34",
+      "gender_split": {"female": 65, "male": 35}
+    },
+    "bio": "First Black model to open Prada in decades. Discovered via Instagram photo at Howard homecoming. Estée Lauder spokesmodel."
+  },
+  {
+    "id": 11,
+    "name": "Mona Tougaard",
+    "instagram_handle": "@monatougaard",
+    "instagram_followers": 320000,
+    "engagement_rate": 3.5,
+    "nationality": "Danish",
+    "base_city": "Copenhagen",
+    "agency": "Elite Copenhagen",
+    "style_tags": ["runway", "editorial", "scandinavian", "luxury", "streetwear"],
+    "specialties": ["runway", "editorial", "street style"],
+    "notable_clients": ["H&M", "Zara", "Louis Vuitton", "Bottega Veneta"],
+    "ig_audience": {
+      "top_countries": ["Denmark", "US", "UK"],
+      "age_range": "18-30",
+      "gender_split": {"female": 70, "male": 30}
+    },
+    "bio": "Models.com Street Style Award winner 2025. Danish model with a cool-girl aesthetic that bridges luxury and street."
+  },
+  {
+    "id": 12,
+    "name": "Sora Choi",
+    "instagram_handle": "@sorachoi__",
+    "instagram_followers": 450000,
+    "engagement_rate": 2.9,
+    "nationality": "South Korean",
+    "base_city": "New York",
+    "agency": "The Society Management",
+    "style_tags": ["runway", "editorial", "avant-garde", "luxury", "androgynous"],
+    "specialties": ["runway", "editorial", "avant-garde shows"],
+    "notable_clients": ["H&M", "Chanel", "Louis Vuitton", "Dior"],
+    "ig_audience": {
+      "top_countries": ["South Korea", "US", "Japan"],
+      "age_range": "20-35",
+      "gender_split": {"female": 55, "male": 45}
+    },
+    "bio": "Korean supermodel known for androgynous edge. H&M FW25 campaign star. One of the most in-demand Asian models globally."
+  },
+  {
+    "id": 13,
+    "name": "Loli Bahia",
+    "instagram_handle": "@lolibahiaa",
+    "instagram_followers": 180000,
+    "engagement_rate": 4.8,
+    "nationality": "French",
+    "base_city": "Paris",
+    "agency": "Elite Paris",
+    "style_tags": ["editorial", "luxury", "french chic", "youthful"],
+    "specialties": ["editorial", "magazine covers", "luxury campaigns"],
+    "notable_clients": ["Vogue", "Alaïa", "Miu Miu"],
+    "ig_audience": {
+      "top_countries": ["France", "US", "Spain"],
+      "age_range": "16-28",
+      "gender_split": {"female": 72, "male": 28}
+    },
+    "bio": "French it-girl model. Vogue cover Dec 2024. Part of the new wave of Parisian models bridging editorial and social."
+  },
+  {
+    "id": 14,
+    "name": "Penelope Ternes",
+    "instagram_handle": "@penelopeternes",
+    "instagram_followers": 45000,
+    "engagement_rate": 5.0,
+    "nationality": "German",
+    "base_city": "Paris",
+    "agency": "Various",
+    "style_tags": ["runway", "luxury", "minimalist", "european"],
+    "specialties": ["runway opener", "designer shows"],
+    "notable_clients": ["Gucci", "Jil Sander", "Tod's", "Dries Van Noten"],
+    "ig_audience": {
+      "top_countries": ["Germany", "France", "Italy"],
+      "age_range": "18-30",
+      "gender_split": {"female": 68, "male": 32}
+    },
+    "bio": "Opened Gucci, Jil Sander, and Tod's in FW25. Rising star with a cool European minimalist look."
+  },
+  {
+    "id": 15,
+    "name": "Amelia Gray",
+    "instagram_handle": "@ameliagray",
+    "instagram_followers": 950000,
+    "engagement_rate": 3.1,
+    "nationality": "American",
+    "base_city": "Los Angeles",
+    "agency": "IMG Models",
+    "style_tags": ["editorial", "commercial", "celebrity adjacent", "luxury"],
+    "specialties": ["editorial", "commercial campaigns", "celebrity events"],
+    "notable_clients": ["Vogue", "Miu Miu", "Calvin Klein"],
+    "ig_audience": {
+      "top_countries": ["US", "UK", "Australia"],
+      "age_range": "16-28",
+      "gender_split": {"female": 72, "male": 28}
+    },
+    "bio": "LA-based with celebrity crossover appeal. Vogue cover Dec 2024. Daughter of supermodel Cindy Crawford. Strong commercial and editorial range."
+  },
+  {
+    "id": 16,
+    "name": "Angelina Kendall",
+    "instagram_handle": "@angelinakendall",
+    "instagram_followers": 120000,
+    "engagement_rate": 4.3,
+    "nationality": "American",
+    "base_city": "New York",
+    "agency": "Various",
+    "style_tags": ["editorial", "commercial", "youthful", "luxury"],
+    "specialties": ["editorial", "commercial campaigns"],
+    "notable_clients": ["H&M", "Vogue", "Sora Choi"],
+    "ig_audience": {
+      "top_countries": ["US", "UK", "Canada"],
+      "age_range": "18-30",
+      "gender_split": {"female": 70, "male": 30}
+    },
+    "bio": "H&M FW25 campaign. Vogue cover Dec 2024. Rising American model with strong commercial appeal."
+  },
+  {
+    "id": 17,
+    "name": "Binx Walton",
+    "instagram_handle": "@binxwalton",
+    "instagram_followers": 210000,
+    "engagement_rate": 2.5,
+    "nationality": "American",
+    "base_city": "New York",
+    "agency": "DNA Models",
+    "style_tags": ["runway", "editorial", "cool-girl", "streetwear", "luxury"],
+    "specialties": ["runway", "editorial", "brand campaigns"],
+    "notable_clients": ["Chanel", "Alexander Wang", "Balenciaga"],
+    "ig_audience": {
+      "top_countries": ["US", "UK", "France"],
+      "age_range": "20-35",
+      "gender_split": {"female": 60, "male": 40}
+    },
+    "bio": "Veteran top walker and Chanel favorite. Cool, tomboy-ish aesthetic that appeals to both luxury and streetwear brands."
+  },
+  {
+    "id": 18,
+    "name": "Selena Forrest",
+    "instagram_handle": "@selenaaforrest",
+    "instagram_followers": 180000,
+    "engagement_rate": 3.0,
+    "nationality": "American",
+    "base_city": "New York",
+    "agency": "Next New York",
+    "style_tags": ["runway", "editorial", "diversity", "luxury"],
+    "specialties": ["runway", "editorial", "luxury campaigns"],
+    "notable_clients": ["Valentino", "Proenza Schouler", "Coach"],
+    "ig_audience": {
+      "top_countries": ["US", "UK", "France"],
+      "age_range": "18-34",
+      "gender_split": {"female": 68, "male": 32}
+    },
+    "bio": "Industry staple known for her all-American look with editorial edge. Consistently books top shows and campaigns."
+  },
+  {
+    "id": 19,
+    "name": "Liu Wen",
+    "instagram_handle": "@liuwenlw",
+    "instagram_followers": 7800000,
+    "engagement_rate": 1.5,
+    "nationality": "Chinese",
+    "base_city": "New York",
+    "agency": "The Society Management",
+    "style_tags": ["supermodel", "commercial", "luxury", "editorial", "asian market"],
+    "specialties": ["brand ambassador", "commercial campaigns", "runway"],
+    "notable_clients": ["Estée Lauder", "Victoria's Secret", "H&M", "Chanel"],
+    "ig_audience": {
+      "top_countries": ["China", "US", "Japan"],
+      "age_range": "18-35",
+      "gender_split": {"female": 60, "male": 40}
+    },
+    "bio": "First Chinese Victoria's Secret model. 7.8M Instagram followers. Bridges Western luxury and Asian commercial markets like no one else."
+  },
+  {
+    "id": 20,
+    "name": "Paloma Elsesser",
+    "instagram_handle": "@palaboringlife",
+    "instagram_followers": 550000,
+    "engagement_rate": 3.8,
+    "nationality": "American/British",
+    "base_city": "New York",
+    "agency": "IMG Models",
+    "style_tags": ["curve", "editorial", "luxury", "inclusive", "body positivity"],
+    "specialties": ["curve modeling", "editorial", "luxury campaigns", "brand ambassador"],
+    "notable_clients": ["Vogue", "Coach", "Nike", "Fendi"],
+    "ig_audience": {
+      "top_countries": ["US", "UK", "Germany"],
+      "age_range": "20-40",
+      "gender_split": {"female": 80, "male": 20}
+    },
+    "bio": "Vogue cover star and curve modeling pioneer. Bridges high fashion and inclusivity. Strong advocacy audience."
+  }
+]
